@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Laxmiprasad24.
-- 👀 I’m interested in learning new languages.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in machine learning.
+
 
 <!---
 Laxmiprasad24/Laxmiprasad24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
